@@ -1,6 +1,7 @@
-Public class HelloWorld {
+package com.helloword
 
-Public Static void main(Sting args[]) {
-  System.out.println("Hi");  
-}
+public class HelloWorld {
+    public Static void main(Sting args[]) {
+      System.out.println("Hi");  
+    }
 }
